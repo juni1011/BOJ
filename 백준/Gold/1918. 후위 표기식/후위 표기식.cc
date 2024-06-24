@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    string exps, ans; // 입력을 받을 string과 결과를 저장할 string
+    string exps; // 입력을 받을 string
     cin >> exps;
 
     stack<char> st;
